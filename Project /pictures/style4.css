@@ -1,0 +1,11 @@
+body{
+    background-color: tomato;
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+}
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: beige;
+    background-color:tomato;
+    text-align: center;
+}
